@@ -604,4 +604,5 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     TimeService \
     WfdCommon \
-    chargeonlymode
+    chargeonlymode \
+    libbtconfigstore
