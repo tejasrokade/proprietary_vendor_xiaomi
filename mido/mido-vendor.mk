@@ -62,6 +62,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mido/proprietary/vendor/lib64/libfp_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfp_client.so \
     vendor/xiaomi/mido/proprietary/vendor/lib64/libfpnav.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpnav.so \
     vendor/xiaomi/mido/proprietary/vendor/lib64/libfpservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpservice.so \
+    vendor/xiaomi/mido/proprietary/vendor/lib64/libgf_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_algo.so \
+    vendor/xiaomi/mido/proprietary/vendor/lib64/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ca.so \
+    vendor/xiaomi/mido/proprietary/vendor/lib64/libgoodixfingerprintd_binder.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgoodixfingerprintd_binder.so \
+    vendor/xiaomi/mido/proprietary/vendor/lib64/libvendor.goodix.hardware.fingerprint@1.0-service.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvendor.goodix.hardware.fingerprint@1.0-service.so \
+    vendor/xiaomi/mido/proprietary/vendor/lib64/libvendor.goodix.hardware.fingerprint@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvendor.goodix.hardware.fingerprint@1.0.so \
     vendor/xiaomi/mido/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
     vendor/xiaomi/mido/proprietary/vendor/lib/libChamomilePA.so:$(TARGET_COPY_OUT_VENDOR)/lib/libChamomilePA.so \
     vendor/xiaomi/mido/proprietary/vendor/lib/libactuator_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9763.so \
